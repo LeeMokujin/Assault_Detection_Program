@@ -162,3 +162,4 @@ cython_debug/
 ADP_dataset/*
 ADP_video_dataset/*
 datasets/*
+Assault-Detection-Program/*
